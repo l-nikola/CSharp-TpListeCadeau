@@ -1,0 +1,14 @@
+C:\Users\fouka\source\repos\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.csproj.AssemblyReference.cache
+C:\Users\fouka\source\repos\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fouka\source\repos\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.AssemblyInfoInputs.cache
+C:\Users\fouka\source\repos\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.AssemblyInfo.cs
+C:\Users\fouka\source\repos\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.csproj.CoreCompileInputs.cache
+C:\Users\fouka\source\repos\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.exe
+C:\Users\fouka\source\repos\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.deps.json
+C:\Users\fouka\source\repos\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.runtimeconfig.json
+C:\Users\fouka\source\repos\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.runtimeconfig.dev.json
+C:\Users\fouka\source\repos\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.dll
+C:\Users\fouka\source\repos\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.pdb
+C:\Users\fouka\source\repos\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.dll
+C:\Users\fouka\source\repos\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.pdb
+C:\Users\fouka\source\repos\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.genruntimeconfig.cache
